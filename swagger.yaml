@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: PRIN135-Demo-10-OpenAPI
+  title: PRIN144-Final-Exam: Aldrin Quitalig
   version: 'Version: 1.0'
   description: DESCRIPTION
   contact:
@@ -10,7 +10,7 @@ externalDocs:
   url: swagger.json
   description: swagger.json
 servers:
-  - url: https://demo-09-db-integration-silk.vercel.app/
+  - url: https://prin-144-final-exam-steel.vercel.app/
     variables: {}
     description: production
 paths:
